@@ -7,3 +7,8 @@ Created on Wed Dec 27 15:42:36 2023
 """
 
 print("hello-Son")
+a=int(input())
+b=int(input())
+c=a+b
+print(c)
+
